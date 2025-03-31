@@ -1,1 +1,2 @@
-# CAN_ic
+# CAN bus
+This project is based on wujian100 SoC ......
